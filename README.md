@@ -51,6 +51,8 @@ Collection of solved data structures and algorithms problems implemented in Java
 
 ## Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/akhilesh-kumar-mishra/
-Portfolio: https://yourportfolio.com
+<p align="left">
+<a href="https://x.com/erakhilesh17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akhilesh79" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akhilesh-kumar-mishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhilesh799" height="30" width="40" /></a>
+</p>
 
