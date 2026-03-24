@@ -23,14 +23,21 @@ Full Stack Developer focused on building scalable web applications using the Jav
 
 ## Projects
 
-**Dev Tinder Backend**
-Backend API for a developer networking platform where users can connect and manage requests.
+## 💻 Dev Tinder
+
+A full-stack social platform for developers to connect, match, and network — inspired by Tinder. It includes real-time feed interactions, authentication, and profile management.
+
+### 🚀 Live Demo  
+👉 https://tinder-dev.in/
 
 **Movies App**
 React-based movie browsing application using external APIs.
 
 **JavaScript DSA**
 Collection of solved data structures and algorithms problems implemented in JavaScript.
+
+### 🌐 Portfolio  
+👉 https://akhilesh-folio.vercel.app/
 
 ---
 
@@ -54,7 +61,6 @@ Collection of solved data structures and algorithms problems implemented in Java
 <p align="left">
 <a href="https://x.com/erakhilesh17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akhilesh79" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/akhilesh-kumar-mishra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akhilesh799" height="30" width="40" /></a>
-<a href="akhilesh-folio.vercel.app" target="blank"><img align="center" src="https://tse3.mm.bing.net/th/id/OIP.tQEeSgr8UhUYzwJC9IGBZgHaHa?pid=Api&P=0&h=180" alt="akhilesh799" height="30" width="40" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilesh79&label=Profile%20views&color=0e75b6&style=flat" alt="akhilesh79" /> </p>
 </p>
 
