@@ -41,15 +41,6 @@ Collection of solved data structures and algorithms problems implemented in Java
 
 ---
 
-## GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=akhilesh79&show_icons=true&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh79&layout=compact&hide_border=true" height="160"/>
-</p>
-
----
-
 ## GitHub Activity
 
 <img src="https://streak-stats.demolab.com/?user=akhilesh79&hide_border=true" />
