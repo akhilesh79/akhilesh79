@@ -4,7 +4,7 @@ Full Stack Developer focused on building scalable web applications using the Jav
 
 ---
 
-## About Me
+## About Me 
 
 * Currently building **Dev Tinder Web Application**
 * Learning **advanced backend architecture**
