@@ -10,7 +10,7 @@ Full Stack Developer focused on building scalable web applications using the Jav
 * Learning **advanced backend architecture**
 * Practicing **Data Structures and Algorithms in JavaScript**
 * Interested in **API design, authentication systems, and scalable backend development**
-
+ 
 ---
 
 ## Tech Stack
