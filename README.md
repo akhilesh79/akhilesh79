@@ -1,6 +1,6 @@
 # Hi 👋 I'm Akhilesh Kumar Mishra
 
-Full Stack Developer focused on building scalable web applications using the JavaScript ecosystem.
+Full Stack Developer focused on building scalable web applications using the JavaScript ecosystem. 
 
 ---
 
